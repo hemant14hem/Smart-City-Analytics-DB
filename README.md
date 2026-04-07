@@ -51,3 +51,4 @@ Traffic signal status has a measurable effect on smooth traffic flow.
 Monthly trend analysis helps identify peak traffic periods and seasonal patterns.
 
 8.Dashboard Screenshot
+https://github.com/hemant14hem/Smart-City-Analytics-DB/blob/main/Smart%20City%20anlaysis.png
