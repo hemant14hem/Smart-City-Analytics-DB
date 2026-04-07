@@ -8,18 +8,18 @@ Smart City Analytics Dashboard – Excel
 An interactive Excel dashboard built to analyze traffic congestion, volume, speed, and travel time across major Bengaluru areas and roads. This project focuses on understanding how weather, roadworks, parking usage, signals, and public transport influence traffic patterns using Excel analytics and visualization.
 
 3.Tech Stack
-Microsoft Excel
-Pivot Tables & Pivot Charts
-Power Query (data cleaning and transformation)
-Formulas and functions
-Slicers and interactive dashboards
+Microsoft Excel,
+Pivot Tables & Pivot Charts,
+Power Query (data cleaning and transformation),
+Formulas and functions,
+Slicers and interactive dashboards.
 
 4.Data Source
 Dataset sourced from Kaggle
 
 5.Highlights
-Area-wise traffic and congestion comparison across Electronic City, Hebbal, Indiranagar, Jayanagar, Koramangala, M. G. Road, Whitefield, and **Yeshwanthpur
-Road and intersection performance analysis including Silk Board Junction, Hebbal Flyover, Sarjapur Road, Trinity Circle, and **Sony World Junction
+Area-wise traffic and congestion comparison across Electronic City, Hebbal, Indiranagar, Jayanagar, Koramangala, M. G. Road, Whitefield, and Yeshwanthpur
+Road and intersection performance analysis including Silk Board Junction, Hebbal Flyover, Sarjapur Road, Trinity Circle, and Sony World Junction
 Weather conditions impact on traffic volume and travel time
 Effect of road construction on congestion levels
 Relationship between parking usage and traffic density
